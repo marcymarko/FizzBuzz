@@ -1,7 +1,7 @@
 :root{
-    --primary-color: #40af24;
+    --primary-color: #54a5b3ec;
     --secondary-color: #ec3413;
-    --dark-color: #292929;
+    --dark-color: #4e1d8de0;
     --white-color: #e7e7e7;
 }
 
@@ -17,7 +17,7 @@ footer{
     background-color: var(--dark-color);
 }
 
-h1,h2,h3,h4,h5,h6{
+h1,h2,h3,h4,h5,h6,p{
     color: var(--primary-color);
 }
 
@@ -32,7 +32,7 @@ footer .social>a{
 
 footer .social>a:hover{
 opacity: 0.9;
-color: var(--secondary-color);
+color: #54a5b3ec;
 }
 
 .bsicon{
