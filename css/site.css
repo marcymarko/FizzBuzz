@@ -43,6 +43,19 @@ color: #54a5b3ec;
     color: rgb(231, 231, 58);
 }
 
+.Fizz{
+    color:rgb(59, 187, 59);
+}
+
+.Buzz{
+    color:darkblue;
+}
+
+.FizzBuzz{
+    color: red;
+    font-weight: bold;
+}
+
 .html5icon{
     color: orangered;
 }
